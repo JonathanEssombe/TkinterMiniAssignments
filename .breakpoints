@@ -1,0 +1,26 @@
+{
+  "files": {
+    "digital timer application.py": [
+      {
+        "id": "02d64040-4a4c-4cf8-85b0-516ec1e7f468",
+        "line": 145,
+        "version": 231,
+        "index": 3873
+      }
+    ],
+    "main.py": [
+      {
+        "id": "d9dd60ce-c54b-4328-a9a3-a25e0904c8df",
+        "line": 1,
+        "version": 34395,
+        "index": 0
+      },
+      {
+        "id": "cbec4b33-a3aa-4809-bfc3-51f1e5350520",
+        "line": 1,
+        "version": 34395,
+        "index": 0
+      }
+    ]
+  }
+}
